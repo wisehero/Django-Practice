@@ -3,3 +3,6 @@
 venv
 .venv
 db.sqlite3
+/static
+/media
+__pycache__
