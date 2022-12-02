@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "app",
     "catube",
+    "rest_framework",
+    "snippets",
 ]
 
 MIDDLEWARE = [
